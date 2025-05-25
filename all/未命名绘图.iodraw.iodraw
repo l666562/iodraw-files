@@ -187,9 +187,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-23" value="题库维护人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1347" width="689" height="504" as="geometry" />
-        </mxCell>
         <mxCell id="EvP09yu9Y-hKXK3XPgJ2-24" value="添加试题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="1382" width="124" height="49" as="geometry" />
         </mxCell>
@@ -252,13 +249,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="809" y="1397" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-25" target="EvP09yu9Y-hKXK3XPgJ2-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="809" y="1495" />
             </Array>
           </mxGeometry>
         </mxCell>
