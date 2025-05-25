@@ -98,7 +98,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8LK3sdWnr1P5cgH9yQ0-1" value="试题库管理系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="430" width="1508" height="691" as="geometry" />
+          <mxGeometry x="60" y="440" width="1508" height="691" as="geometry" />
         </mxCell>
         <mxCell id="e8LK3sdWnr1P5cgH9yQ0-2" value="题库维护人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="e8LK3sdWnr1P5cgH9yQ0-1">
           <mxGeometry x="347" y="46" width="156" height="49" as="geometry" />
