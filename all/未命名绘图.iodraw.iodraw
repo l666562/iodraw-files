@@ -1031,6 +1031,215 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-325" value="题库维护人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="6422" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-326" value="添加试题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="994" y="6526" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-327" value="修改试题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="6357" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-328" value="删除试题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="6469" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-329" value="试题库" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1317" y="6533" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-330" value="自动组卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="6643" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-331" value="手动组卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2133" y="6588" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-332" value="随机组卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="6861" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-333" value="在线练习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2133" y="6804" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-334" value="教师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1843" y="6643" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-335" value="打印试卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2133" y="6702" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-336" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1843" y="6861" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-337" value="在线评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2133" y="6917" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-338" value="试题信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-325" target="EvP09yu9Y-hKXK3XPgJ2-326">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="935" y="6550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-339" value="修改指令及试题信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-325" target="EvP09yu9Y-hKXK3XPgJ2-327">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="935" y="6350" />
+              <mxPoint x="1461" y="6350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-340" value="删除指令及试题ID" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-325" target="EvP09yu9Y-hKXK3XPgJ2-328">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="935" y="6456" />
+              <mxPoint x="1461" y="6456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-341" value="更新数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-326" target="EvP09yu9Y-hKXK3XPgJ2-329">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-342" value="更新数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.66;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-327" target="EvP09yu9Y-hKXK3XPgJ2-329">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461" y="6424" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-343" value="删除数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=1;entryY=0.25;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-328" target="EvP09yu9Y-hKXK3XPgJ2-329">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461" y="6530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-344" value="查询试题" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-329" target="EvP09yu9Y-hKXK3XPgJ2-327">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461" y="6382" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-345" value="查询试题" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0;entryY=0.43;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-329" target="EvP09yu9Y-hKXK3XPgJ2-328">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461" y="6487" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-346" value="读取试题" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-329" target="EvP09yu9Y-hKXK3XPgJ2-330">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461" y="6668" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-347" value="读取试题" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0;entryY=0.13;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-329" target="EvP09yu9Y-hKXK3XPgJ2-331">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461" y="6566" />
+              <mxPoint x="2034" y="6566" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-348" value="读取试题" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-329" target="EvP09yu9Y-hKXK3XPgJ2-332">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461" y="6886" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-349" value="读取试题" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-329" target="EvP09yu9Y-hKXK3XPgJ2-333">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461" y="6778" />
+              <mxPoint x="2034" y="6778" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-350" value="自动组卷请求及参数" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=1;entryY=0.97;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-334" target="EvP09yu9Y-hKXK3XPgJ2-330">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1744" y="6727" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-351" value="手动组卷请求及选择" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.05;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-334" target="EvP09yu9Y-hKXK3XPgJ2-331">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="6597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-352" value="打印请求及试卷" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-334" target="EvP09yu9Y-hKXK3XPgJ2-335">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="6682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-353" value="生成的试卷" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.16;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-330" target="EvP09yu9Y-hKXK3XPgJ2-334">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1744" y="6624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-354" value="生成的试卷" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=1;entryY=0.32;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-331" target="EvP09yu9Y-hKXK3XPgJ2-334">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="6640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-355" value="打印输出" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=1;entryY=1;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-335" target="EvP09yu9Y-hKXK3XPgJ2-334">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="6744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-356" value="随机组卷请求" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=1;entryY=0.72;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-336" target="EvP09yu9Y-hKXK3XPgJ2-332">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1744" y="6914" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-357" value="练习请求及答案" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.04;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-336" target="EvP09yu9Y-hKXK3XPgJ2-333">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="6813" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-358" value="评价输入" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-336" target="EvP09yu9Y-hKXK3XPgJ2-337">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="6899" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-359" value="随机生成的试卷" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.12;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-332" target="EvP09yu9Y-hKXK3XPgJ2-336">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1744" y="6836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-360" value="练习结果与反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=1;entryY=0.31;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-333" target="EvP09yu9Y-hKXK3XPgJ2-336">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="6856" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-361" value="评价结果与反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.86;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-337" target="EvP09yu9Y-hKXK3XPgJ2-336">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="6941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
