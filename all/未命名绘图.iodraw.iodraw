@@ -22,9 +22,6 @@
         <mxCell id="EvP09yu9Y-hKXK3XPgJ2-105" value="B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="418" y="901" width="69" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-106" value="试题编号, 试题内容, 试题类型, 参考答案, 分值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="637" y="802" width="248" height="248" as="geometry" />
-        </mxCell>
         <mxCell id="EvP09yu9Y-hKXK3XPgJ2-107" value="选择题, 判断题, 填空题, 应用题" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1028" y="893" width="201" height="66" as="geometry" />
         </mxCell>
@@ -40,14 +37,16 @@
         <mxCell id="EvP09yu9Y-hKXK3XPgJ2-111" value="H" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="417" y="683" width="70" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-112" value="试题信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-105" target="EvP09yu9Y-hKXK3XPgJ2-106">
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-112" value="试题信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-105">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="637" y="926" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-113" value="试题类型" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-106" target="EvP09yu9Y-hKXK3XPgJ2-107">
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-113" value="试题类型" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" target="EvP09yu9Y-hKXK3XPgJ2-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="885" y="926" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EvP09yu9Y-hKXK3XPgJ2-114" value="试卷分值" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.12;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-108" target="EvP09yu9Y-hKXK3XPgJ2-109">
