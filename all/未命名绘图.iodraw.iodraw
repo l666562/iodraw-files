@@ -319,6 +319,210 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-176" value="选择题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="456" y="3845" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-177" value="判断题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="614" y="3845" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-178" value="填空题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="772" y="3845" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-179" value="应用题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="3845" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-180" value="试题类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="273" y="3598" width="800" height="369" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-181" value="题库维护人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="3150" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-182" value="试题添加/修改/删除" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="571" y="3281" width="193" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-183" value="试题信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="606" y="3623" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-184" value="试题库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="3845" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-185" value="教师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1274" y="3150" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-186" value="自动组卷/手动组卷/打印试卷" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="3249" width="259" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-187" value="试卷分值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="3623" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-188" value="是否保存试卷" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="3797" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-189" value="保存的试卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1066" y="4039" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-190" value="未保存的试卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="4039" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-191" value="试卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="3623" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-192" value="教师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="3845" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-193" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1816" y="3150" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-194" value="随机组卷/在线练习/在线评价" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1733" y="3249" width="259" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-195" value="试卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1539" y="3623" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-196" value="随机组卷试卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1681" y="3623" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-197" value="在线练习试卷" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1887" y="3623" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-198" value="在线评价结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2093" y="3623" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-199" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1539" y="3845" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-200" value="学生信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1523" y="4039" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-201" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-181" target="EvP09yu9Y-hKXK3XPgJ2-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-202" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-182" target="EvP09yu9Y-hKXK3XPgJ2-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-203" value="试题编号, 试题内容, 试题类型(选择题, 判断题, 填空题, 应用题), 参考答案, 分值" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.85;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-183" target="EvP09yu9Y-hKXK3XPgJ2-184">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="3734" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-204" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-185" target="EvP09yu9Y-hKXK3XPgJ2-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-205" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-186" target="EvP09yu9Y-hKXK3XPgJ2-187">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1236" y="3553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-187" target="EvP09yu9Y-hKXK3XPgJ2-188">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-207" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-188" target="EvP09yu9Y-hKXK3XPgJ2-189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1137" y="3967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-208" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-188" target="EvP09yu9Y-hKXK3XPgJ2-190">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1335" y="3967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-209" value="自动组卷/手动组卷/打印试卷" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-186" target="EvP09yu9Y-hKXK3XPgJ2-191">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1443" y="3553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-210" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-191" target="EvP09yu9Y-hKXK3XPgJ2-192">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-211" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-193" target="EvP09yu9Y-hKXK3XPgJ2-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-212" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-194" target="EvP09yu9Y-hKXK3XPgJ2-195">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1585" y="3553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-213" value="随机组卷" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-194" target="EvP09yu9Y-hKXK3XPgJ2-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1759" y="3553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-214" value="在线练习" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-194" target="EvP09yu9Y-hKXK3XPgJ2-197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1965" y="3553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-215" value="在线评价" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-194" target="EvP09yu9Y-hKXK3XPgJ2-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2171" y="3553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-216" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-195" target="EvP09yu9Y-hKXK3XPgJ2-199">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-217" value="姓名, 学号, 班级" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-199" target="EvP09yu9Y-hKXK3XPgJ2-200">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-218" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-183" target="EvP09yu9Y-hKXK3XPgJ2-176">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="3734" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-219" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-183" target="EvP09yu9Y-hKXK3XPgJ2-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-220" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-183" target="EvP09yu9Y-hKXK3XPgJ2-178">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="826" y="3734" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvP09yu9Y-hKXK3XPgJ2-221" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EvP09yu9Y-hKXK3XPgJ2-183" target="EvP09yu9Y-hKXK3XPgJ2-179">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="984" y="3734" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
