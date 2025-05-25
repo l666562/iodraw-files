@@ -247,7 +247,7 @@
           <mxGeometry x="402" y="2471" width="518" height="217" as="geometry" />
         </mxCell>
         <mxCell id="EvP09yu9Y-hKXK3XPgJ2-159" value="题库维护人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2555" width="862" height="318" as="geometry" />
+          <mxGeometry x="276" y="2555" width="862" height="318" as="geometry" />
         </mxCell>
         <mxCell id="EvP09yu9Y-hKXK3XPgJ2-160" value="系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="2540" width="222" height="466" as="geometry" />
